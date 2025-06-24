@@ -34,5 +34,5 @@ The institutional course's yearbook is hosted on the [DHDKey](https://projects.d
 | [-](#) |	Usability and User Experience | F. Vitali | [See Repository](https://github) | 2025 |-->
 
 
-<!--| [Education: Paid vs Free](https://app.gitbook.com/o/qj29UDpWI5c81ZDQLcwK/s/9fsYOeCWeHusWzSnxNh2/1.-overview/1.1-krke-project) |	Knowledge Representation and Extraction | A. Gangemi | [See Repository](https://github.com/Alice-Ant/KRKE-Project) | Feb. 2025 |
-| [The City RE-imagined](https://) |	Information Modelling and Web Technologies | F. Vitali | [See Repository](https://github.com/KodeKronicles/citylife) | Feb. 2025 |-->
+| [Education: Paid vs Free](https://app.gitbook.com/o/qj29UDpWI5c81ZDQLcwK/s/9fsYOeCWeHusWzSnxNh2/1.-overview/1.1-krke-project) |	Knowledge Representation and Extraction | A. Gangemi | [See Repository](https://github.com/Alice-Ant/KRKE-Project) | Feb. 2025 |
+| [The URBAN Dream](https://kodekronicles.github.io/urban_dream/) |	Information Modelling and Web Technologies | F. Vitali | [See Repository](https://github.com/KodeKronicles/citylife) | Feb. 2025 |
